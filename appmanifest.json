@@ -1,7 +1,7 @@
 {
 	"name": "Food Fall - Learn Italian",
 	"short_name": "Food Fall - Learn Italian",
-	"description": "Say the food before it falls! Study and speak to play.",
+	"description": "Learn Italian Foods! Study and speak to play.",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "portrait",
